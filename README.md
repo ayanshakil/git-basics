@@ -1,4 +1,4 @@
-#Github Basics
+# Github Basics
 
 
-Some Description.
+Some Description!
